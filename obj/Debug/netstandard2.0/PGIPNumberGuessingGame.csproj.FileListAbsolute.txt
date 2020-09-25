@@ -1,0 +1,12 @@
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\obj\Debug\netstandard2.0\PGIPNumberGuessingGame.AssemblyInfoInputs.cache
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\obj\Debug\netstandard2.0\PGIPNumberGuessingGame.AssemblyInfo.cs
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\bin\Debug\netstandard2.0\PGIPNumberGuessingGame.deps.json
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\bin\Debug\netstandard2.0\PGIPNumberGuessingGame.dll
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\bin\Debug\netstandard2.0\ref\PGIPNumberGuessingGame.dll
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\bin\Debug\netstandard2.0\PGIPNumberGuessingGame.pdb
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\obj\Debug\netstandard2.0\XamlC.stamp
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\obj\Debug\netstandard2.0\PGIPNumberGuessingGame.dll
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\obj\Debug\netstandard2.0\ref\PGIPNumberGuessingGame.dll
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\obj\Debug\netstandard2.0\PGIPNumberGuessingGame.pdb
+H:\Desktop\Test\PGIPNumberGuessingGame\PGIPNumberGuessingGame\PGIPNumberGuessingGame\obj\Debug\netstandard2.0\MainPage.xaml.g.cs

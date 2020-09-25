@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PGIPNumberGuessingGame"
+             x:Class="PGIPNumberGuessingGame.MainPage"
+             BackgroundColor="#ba55d3">
+
+    <ContentPage.Content>
+        <Grid>
+            <!--Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </-->
+            <StackLayout>
+                <Label Text="Number Guessing Game" 
+                       FontAttributes="Bold" 
+                       FontSize="32"
+                       TextColor="White" 
+                       HorizontalOptions="Center"/>
+
+                <Label x:Name="QuestionMarks"
+                       Text="??"
+                       FontSize="30"
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center" 
+                       TextColor="White"/>
+
+                <Label Text= "Enter a Number" 
+                       FontAttributes="None" 
+                       FontSize="30" 
+                       TextColor="White" 
+                       HorizontalOptions="Center"/>
+
+                <Entry x:Name="Guess" 
+                       Text="{Binding Text}"
+                       FontSize="26"
+                       Placeholder="Guess" 
+                       PlaceholderColor="White" 
+                       TextColor="White" 
+                       HorizontalOptions="Center"/>
+
+                <Button x:Name="SubmitGuess"
+                        Text="Submit Guess" 
+                        FontSize="26"
+                        BackgroundColor="#7b55d3" 
+                        TextColor="White" 
+                        Clicked="OnSubmitButtonClicked"
+                        IsVisible="False" />
+
+                <Button x:Name="NewGame"
+                        Text="New Game"
+                        FontSize="26"
+                        BackgroundColor="#7b55d3"
+                        TextColor="White"
+                        Clicked="OnNewGameButtonClicked"
+                        IsVisible="True" />
+                
+                <Label x:Name="GuessHint"
+                       Text="GuessHintPlaceHolder"
+                       FontSize="26"
+                       TextColor="White"
+                       HorizontalOptions="Center"
+                       IsVisible="False"
+                       />
+                
+            </StackLayout>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
